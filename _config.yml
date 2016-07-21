@@ -11,4 +11,9 @@ color:
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
-name: Massothérapeute agréé
+name: Daniel Mailloux massothérapeute agréé
+navigation:
+  - id: c8dcc8f6-35e6-4f56-bf87-4e2db4cdd094
+    url: 2016-07-21-profil.html
+    name: Profil
+    type: content
