@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daniel Mailloux massothérapeute agréé]]></title>
+        <description><![CDATA[Daniel Mailloux massothérapeute agréé]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jul 2016 04:40:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Profil]]></title>
+            <description><![CDATA[<article><h1>Profil</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ba434a7777b48e3ef15c610c3a2c423/croprotate.jpg?cropheight=3233&cropwidth=4149&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F40ca8650-2ebf-4375-ace1-535ecb3c2d0e.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/40ca8650-2ebf-4375-ace1-535ecb3c2d0e.jpg</link>
+            <guid isPermaLink="false">c8dcc8f6-35e6-4f56-bf87-4e2db4cdd094</guid>
+            <pubDate>Thu, 21 Jul 2016 04:39:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
