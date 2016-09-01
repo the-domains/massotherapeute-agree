@@ -1,19 +1,30 @@
-layout_spectrum: 0.7092657163739204
-typography_spectrum: 0.11235491745173931
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.09398496
 color:
+  saturation: 0.7051557
   brandStrength: 0.873998923227191
-  lightness: 0.12326011760160327
-  saturation: 0.3521191249601543
-  rhythmicContrast: 0.60996577818878
+  lightness: 0.6643394
   brandColors:
     - '#F7F2B2'
     - '#ADCF4F'
     - '#84815B'
     - '#4A1A2C'
     - '#8E3557'
-name: Daniel Mailloux massothérapeute agréé
+  rhythmicContrast: 0.7019334
 navigation:
   - id: c8dcc8f6-35e6-4f56-bf87-4e2db4cdd094
-    url: 2016-07-21-profil.html
     name: Profil
     type: content
+layout_spectrum: 1
+name: Daniel Mailloux massothérapeute agréé
